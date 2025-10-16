@@ -1,0 +1,18 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+
+label {
+    background-color: black;
+    color: red;
+     padding: 3px 6px;
+    border-radius: 3px;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+table{
+    background-color: yellowgreen;
+}

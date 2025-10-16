@@ -1,0 +1,21 @@
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+label {
+    background-color: black;
+    color: white;
+    padding: 3px 6px;
+    border-radius: 3px;
+}
+
+table {
+    background-color: chocolate;
+}
+
+button {
+    background-color: black;
+    color: aliceblue;
+
+}
