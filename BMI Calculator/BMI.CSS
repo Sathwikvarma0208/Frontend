@@ -1,0 +1,28 @@
+* {
+  margin: 5px;
+  padding: 5px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f7;
+}
+
+label {
+  background-color: black;
+  color: white;
+  padding:  6px;
+  border-radius: 3px;
+}
+
+button {
+  background-color: green;
+  color: white;
+ 
+}
+table{
+    background-color: palevioletred;
+    color: black;
+}
+
+
